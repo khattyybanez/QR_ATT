@@ -1,3 +1,4 @@
+
 {
   "cli": {
     "version": ">= 24.1.0",
@@ -9,7 +10,8 @@
       "distribution": "internal"
     },
     "preview": {
-      "distribution": "internal"
+      "distribution": "internal",
+      "node": "24.21.0"
     },
     "production": {
       "autoIncrement": true
